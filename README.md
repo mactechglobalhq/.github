@@ -3,7 +3,7 @@
   <p><strong>Innovating Technology for a Smarter, Connected Future</strong></p>
 </p>
 
-Welcome to the official GitHub of **Mactech Global Ventures Ltd** — a technology company dedicated to designing and building impactful digital products that power businesses and improve everyday life.
+Welcome to the official GitHub of **Mactech Global Ventures Ltd** - a technology company dedicated to designing and building impactful digital products that power businesses and improve everyday life.
 
 We transform ideas into powerful, user-focused applications through strong engineering and thoughtful product design.
 
@@ -30,7 +30,7 @@ At Mactech, we combine **design thinking** with **modern technology** to create 
 ✔ Secure  
 ✔ Performance-driven  
 
-We don’t just build apps — we design **complete digital products** that deliver real business value.
+We don't just build apps - we design **complete digital products** that deliver real business value.
 
 ---
 
